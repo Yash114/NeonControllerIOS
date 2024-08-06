@@ -1,0 +1,6 @@
+framework module Pods_Neon_Controller {
+  umbrella header "Pods-Neon Controller-umbrella.h"
+
+  export *
+  module * { export * }
+}
